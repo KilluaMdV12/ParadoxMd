@@ -1,0 +1,17 @@
+{
+  "users": {},
+  "groups": {},
+  "settings": {
+    "selfMode": false,
+    "_lastEnergiDefault": 99999,
+    "_lastEnergiPremium": 99999999
+  },
+  "stats": {},
+  "sewa": {
+    "enabled": false,
+    "groups": {}
+  },
+  "premium": [],
+  "owner": [],
+  "partner": []
+}
