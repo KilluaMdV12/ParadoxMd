@@ -20,12 +20,12 @@
 const config = {
 
     info: {
-        website: 'https://lawwdev.pages.dev',
+        website: '-',
         grupwa: 'https://chat.whatsapp.com/C8pzXYhMJMyKbHMdehT9Yt'
     },
 
     owner: {
-        name: 'Laww',                    // -
+        name: 'Minzy',                    // -
         number: ["6287763584278","6285862197236"]          // Format: 628xxx (tanpa + atau 0)
     },
 
@@ -37,7 +37,7 @@ const config = {
     bot: {
         name: 'ParadoxMd',                 // Nama bot
         version: '2.1.0',                 // Versi bot
-        developer: 'Laww'          // Nama developer
+        developer: 'Minzy'          // Nama developer
     },
 
     mode: 'public',
@@ -77,7 +77,7 @@ const config = {
             'Fitur baru lebih cepat',
             'Priority support'
         ],
-        qris: 'https://pay-bloxstore.pages.dev/qriss.png'
+        qris: '-'
     },
 
     energi: {
@@ -89,13 +89,13 @@ const config = {
 
     sticker: {
         packname: 'ParadoxMd',             // Nama pack sticker
-        author: 'Bot'                     // Author sticker
+        author: 'Minzy'                     // Author sticker
     },
 
     saluran: {
-        id: '', // ID saluran (contoh: 120363xxx@newsletter)                          // ID saluran (contoh: 120363xxx@newsletter)
-        name: '',       // Nama saluran
-        link: 'https://whatsapp.com/channel/0029Vb6zgBRBvvso8azODR2k'                          // Link saluran
+        id: '-', // ID saluran (contoh: 120363xxx@newsletter)                          // ID saluran (contoh: 120363xxx@newsletter)
+        name: '-',       // Nama saluran
+        link: '-'                          // Link saluran
     },
 
     groupProtection: {
