@@ -26,11 +26,11 @@ const config = {
 
     owner: {
         name: 'Minzy',                    // -
-        number: ["6287763584278","6285862197236"]          // Format: 628xxx (tanpa + atau 0)
+        number: ["628980319893","6285862197236"]          // Format: 628xxx (tanpa + atau 0)
     },
 
     session: {
-        pairingNumber: '6287763584278',   // Nomor WA yang akan di-pair
+        pairingNumber: '628980319893',   // Nomor WA yang akan di-pair
         usePairingCode: true              // true = Pairing Code, false = QR Code
     },
 
